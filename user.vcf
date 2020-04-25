@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:candy@ruocchio.co.za
 TEL;type=WORK;type=VOICE:+27 83 783 8443
 item1.ADR;type=WORK;type=pref:;;49 Avondgloed Road\nKlopperpark\, Germiston;;;Gauteng;1601
 item1.X-ABADR:sg
-item2.URL;type=pref:jhcserve.wixsite.com/
-item2.X-ABLabel:_$!<jhcservices>!$_
+item2.URL;type=pref:jhcserve.wixsite.com/jhcservices
+item2.X-ABLabel:_$!<HOME>!$_
 END:VCARD
