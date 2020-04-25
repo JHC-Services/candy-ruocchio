@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
+N:Ruocchio;Candy-Leigh;;;
+FN: Candy-Leigh Ruocchio
+ORG:JHC Services;
 TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+EMAIL;type=INTERNET;type=WORK;type=pref:candy@ruocchio.co.za
+TEL;type=MOBILE;type=VOICE:+27 83 783 8443
+item1.ADR;type=WORK;type=pref:;;49 Avondgloed Road\nSandcrawler\, Klopperpark;;;Germiston;Gauteng;1601
+item1.X-ABADR:ZA
+item2.URL;type=pref:jhcserve.wixsite.com/jhcservices
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
